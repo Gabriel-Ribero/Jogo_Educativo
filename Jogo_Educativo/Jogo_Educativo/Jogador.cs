@@ -17,4 +17,5 @@ namespace Jogo_Educativo
         public TimeSpan Tempo { get => tempo; set => tempo = value; }
         public string Dificuldade { get => dificuldade; set => dificuldade = value; }
     }
+    // Classe Jogador Concluída
 }
